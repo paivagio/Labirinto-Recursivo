@@ -1,3 +1,0 @@
-/cygdrive/c/Users/paiva/CLionProjects/LabirintoRecursivo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/paiva/CLionProjects/LabirintoRecursivo/cmake-build-debug/CMakeFiles/LabirintoRecursivo.dir
-/cygdrive/c/Users/paiva/CLionProjects/LabirintoRecursivo/cmake-build-debug/CMakeFiles/edit_cache.dir
