@@ -1,3 +1,10 @@
+/*
+Nome: Giovanni Pazini Meneghel Paiva
+Criado: 12/10/2020
+Professor: Vinicius Godoy
+PUCPR - Programação de Estrutura de Dados Avançada
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
